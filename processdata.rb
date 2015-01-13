@@ -61,7 +61,7 @@ def get_ranges(spectrum)
 #    res.push spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
 #get all frequencies within the band range
 # get all powers relating to these frequencies
-# find the peak power within the band
+# find the peak power within the band 
     puts "start----- #{lf} MHz ->  #{hf} MHz --------------------------------------------------"
     puts spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
     freqs_inrange = spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
