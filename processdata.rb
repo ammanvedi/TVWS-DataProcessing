@@ -9,7 +9,7 @@ require 'google_chart'
 include Math
 
 DATA_FILE='Scan.rfs'
-OUT_FILE='peakpowernormalised.json'
+OUT_FILE='average_power.json'
 OPEN_OUT=File.open(OUT_FILE, 'w')
 MIN_POWER = 47
 BAND_LOWER_FREQ=[ # MHz
@@ -61,18 +61,18 @@ def get_ranges(spectrum)
 #    res.push spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
 #get all frequencies within the band range
 # get all powers relating to these frequencies
-# find the peak power within the band 
+# find the peak power within the band
     puts "start----- #{lf} MHz ->  #{hf} MHz --------------------------------------------------"
-    puts spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
+#    puts spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
     freqs_inrange = spectrum.keys.select{|f| (lf..hf).include?(f.to_f)  }
     powers = []
     freqs_inrange.each do |frequency|
       powers.push spectrum[frequency];
-      puts "power for #{frequency.to_f} is #{spectrum[frequency]}"
+#      puts "power for #{frequency.to_f} is #{spectrum[frequency]}"
     end
-    puts "the max power in this band is #{powers.max}, the minimum is #{powers.min}"
+    puts "the max power in this band is #{powers.max}, the minimum is #{powers.min}, the average is #{powers.instance_eval{reduce(:+) / size.to_f}}"
     res.push powers.max
-    puts "end------- #{lf} MHz ->  #{hf} MHz ----------------------------------------------------"
+    puts "end------- #{lf} MHz ->  #{hf} MHz ----------------------------------------------------\n\n"
 #      .reduce(0) {|memo, k| if memo == nil
 #                            memo = 10000
 #                          elsif memo > spectrum[k]
@@ -135,7 +135,7 @@ end
 res = {
   bands: BAND_LOWER_FREQ,
   band_width: BAND_WIDTH,
-  points: normalize(load_data),
+  points: load_data,
 }
 OPEN_OUT.puts res.to_json
 OPEN_OUT.close
