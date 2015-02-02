@@ -1,0 +1,910 @@
+{
+  "3": {
+    "RegionID": 2,
+    "RegionSubset": 1,
+    "Channels": [
+      {
+        "ChannelNumber": 2,
+        "LowEnd": 54,
+        "UpEnd": 60
+      },
+      {
+        "ChannelNumber": 3,
+        "LowEnd": 60,
+        "UpEnd": 66
+      },
+      {
+        "ChannelNumber": 4,
+        "LowEnd": 66,
+        "UpEnd": 72
+      },
+      {
+        "ChannelNumber": 5,
+        "LowEnd": 76,
+        "UpEnd": 82
+      },
+      {
+        "ChannelNumber": 6,
+        "LowEnd": 82,
+        "UpEnd": 88
+      },
+      {
+        "ChannelNumber": 7,
+        "LowEnd": 174,
+        "UpEnd": 180
+      },
+      {
+        "ChannelNumber": 8,
+        "LowEnd": 180,
+        "UpEnd": 186
+      },
+      {
+        "ChannelNumber": 9,
+        "LowEnd": 186,
+        "UpEnd": 192
+      },
+      {
+        "ChannelNumber": 10,
+        "LowEnd": 192,
+        "UpEnd": 198
+      },
+      {
+        "ChannelNumber": 11,
+        "LowEnd": 198,
+        "UpEnd": 204
+      },
+      {
+        "ChannelNumber": 12,
+        "LowEnd": 204,
+        "UpEnd": 210
+      },
+      {
+        "ChannelNumber": 13,
+        "LowEnd": 210,
+        "UpEnd": 216
+      },
+      {
+        "ChannelNumber": 14,
+        "LowEnd": 470,
+        "UpEnd": 476
+      },
+      {
+        "ChannelNumber": 15,
+        "LowEnd": 476,
+        "UpEnd": 482
+      },
+      {
+        "ChannelNumber": 16,
+        "LowEnd": 482,
+        "UpEnd": 488
+      },
+      {
+        "ChannelNumber": 17,
+        "LowEnd": 488,
+        "UpEnd": 494
+      },
+      {
+        "ChannelNumber": 18,
+        "LowEnd": 494,
+        "UpEnd": 500
+      },
+      {
+        "ChannelNumber": 19,
+        "LowEnd": 500,
+        "UpEnd": 506
+      },
+      {
+        "ChannelNumber": 20,
+        "LowEnd": 506,
+        "UpEnd": 512
+      },
+      {
+        "ChannelNumber": 21,
+        "LowEnd": 512,
+        "UpEnd": 518
+      },
+      {
+        "ChannelNumber": 22,
+        "LowEnd": 518,
+        "UpEnd": 524
+      },
+      {
+        "ChannelNumber": 23,
+        "LowEnd": 524,
+        "UpEnd": 530
+      },
+      {
+        "ChannelNumber": 24,
+        "LowEnd": 530,
+        "UpEnd": 536
+      },
+      {
+        "ChannelNumber": 25,
+        "LowEnd": 536,
+        "UpEnd": 542
+      },
+      {
+        "ChannelNumber": 26,
+        "LowEnd": 542,
+        "UpEnd": 548
+      },
+      {
+        "ChannelNumber": 27,
+        "LowEnd": 548,
+        "UpEnd": 554
+      },
+      {
+        "ChannelNumber": 28,
+        "LowEnd": 554,
+        "UpEnd": 560
+      },
+      {
+        "ChannelNumber": 29,
+        "LowEnd": 560,
+        "UpEnd": 566
+      },
+      {
+        "ChannelNumber": 30,
+        "LowEnd": 566,
+        "UpEnd": 572
+      },
+      {
+        "ChannelNumber": 31,
+        "LowEnd": 572,
+        "UpEnd": 578
+      },
+      {
+        "ChannelNumber": 32,
+        "LowEnd": 578,
+        "UpEnd": 584
+      },
+      {
+        "ChannelNumber": 33,
+        "LowEnd": 584,
+        "UpEnd": 590
+      },
+      {
+        "ChannelNumber": 34,
+        "LowEnd": 590,
+        "UpEnd": 596
+      },
+      {
+        "ChannelNumber": 35,
+        "LowEnd": 596,
+        "UpEnd": 602
+      },
+      {
+        "ChannelNumber": 36,
+        "LowEnd": 602,
+        "UpEnd": 608
+      },
+      {
+        "ChannelNumber": 37,
+        "LowEnd": 608,
+        "UpEnd": 614
+      },
+      {
+        "ChannelNumber": 38,
+        "LowEnd": 614,
+        "UpEnd": 620
+      },
+      {
+        "ChannelNumber": 39,
+        "LowEnd": 620,
+        "UpEnd": 626
+      },
+      {
+        "ChannelNumber": 40,
+        "LowEnd": 626,
+        "UpEnd": 632
+      },
+      {
+        "ChannelNumber": 41,
+        "LowEnd": 632,
+        "UpEnd": 638
+      },
+      {
+        "ChannelNumber": 42,
+        "LowEnd": 638,
+        "UpEnd": 644
+      },
+      {
+        "ChannelNumber": 43,
+        "LowEnd": 644,
+        "UpEnd": 650
+      },
+      {
+        "ChannelNumber": 44,
+        "LowEnd": 650,
+        "UpEnd": 656
+      },
+      {
+        "ChannelNumber": 45,
+        "LowEnd": 656,
+        "UpEnd": 662
+      },
+      {
+        "ChannelNumber": 46,
+        "LowEnd": 662,
+        "UpEnd": 668
+      },
+      {
+        "ChannelNumber": 47,
+        "LowEnd": 668,
+        "UpEnd": 674
+      },
+      {
+        "ChannelNumber": 48,
+        "LowEnd": 674,
+        "UpEnd": 680
+      },
+      {
+        "ChannelNumber": 49,
+        "LowEnd": 680,
+        "UpEnd": 686
+      },
+      {
+        "ChannelNumber": 50,
+        "LowEnd": 686,
+        "UpEnd": 692
+      },
+      {
+        "ChannelNumber": 51,
+        "LowEnd": 692,
+        "UpEnd": 698
+      },
+      {
+        "ChannelNumber": 52,
+        "LowEnd": 698,
+        "UpEnd": 704
+      },
+      {
+        "ChannelNumber": 53,
+        "LowEnd": 704,
+        "UpEnd": 710
+      },
+      {
+        "ChannelNumber": 54,
+        "LowEnd": 710,
+        "UpEnd": 716
+      },
+      {
+        "ChannelNumber": 55,
+        "LowEnd": 716,
+        "UpEnd": 722
+      },
+      {
+        "ChannelNumber": 56,
+        "LowEnd": 722,
+        "UpEnd": 728
+      },
+      {
+        "ChannelNumber": 57,
+        "LowEnd": 728,
+        "UpEnd": 734
+      },
+      {
+        "ChannelNumber": 58,
+        "LowEnd": 734,
+        "UpEnd": 740
+      },
+      {
+        "ChannelNumber": 59,
+        "LowEnd": 740,
+        "UpEnd": 746
+      },
+      {
+        "ChannelNumber": 60,
+        "LowEnd": 746,
+        "UpEnd": 752
+      },
+      {
+        "ChannelNumber": 61,
+        "LowEnd": 752,
+        "UpEnd": 758
+      },
+      {
+        "ChannelNumber": 62,
+        "LowEnd": 758,
+        "UpEnd": 764
+      },
+      {
+        "ChannelNumber": 63,
+        "LowEnd": 764,
+        "UpEnd": 770
+      },
+      {
+        "ChannelNumber": 64,
+        "LowEnd": 770,
+        "UpEnd": 776
+      },
+      {
+        "ChannelNumber": 65,
+        "LowEnd": 776,
+        "UpEnd": 782
+      },
+      {
+        "ChannelNumber": 66,
+        "LowEnd": 782,
+        "UpEnd": 788
+      },
+      {
+        "ChannelNumber": 67,
+        "LowEnd": 788,
+        "UpEnd": 794
+      },
+      {
+        "ChannelNumber": 68,
+        "LowEnd": 794,
+        "UpEnd": 800
+      },
+      {
+        "ChannelNumber": 69,
+        "LowEnd": 800,
+        "UpEnd": 806
+      }
+    ]
+  },
+  "2": {
+    "RegionID": 1,
+    "RegionSubset": 1,
+    "Channels": [
+	      {
+	        "ChannelNumber": 21,
+	        "LowEnd": 471.25,
+	        "UpEnd": 476.75
+	      },
+	      {
+	        "ChannelNumber": 22,
+	        "LowEnd": 479.25,
+	        "UpEnd": 484.75
+	      },
+	      {
+	        "ChannelNumber": 23,
+	        "LowEnd": 487.25,
+	        "UpEnd": 492.75
+	      },
+	      {
+	        "ChannelNumber": 24,
+	        "LowEnd": 495.25,
+	        "UpEnd": 500.75
+	      },
+	      {
+	        "ChannelNumber": 25,
+	        "LowEnd": 503.25,
+	        "UpEnd": 508.75
+	      },
+	      {
+	        "ChannelNumber": 26,
+	        "LowEnd": 511.25,
+	        "UpEnd": 516.75
+	      },
+	      {
+	        "ChannelNumber": 27,
+	        "LowEnd": 519.25,
+	        "UpEnd": 524.75
+	      },
+	      {
+	        "ChannelNumber": 28,
+	        "LowEnd": 527.25,
+	        "UpEnd": 532.75
+	      },
+	      {
+	        "ChannelNumber": 29,
+	        "LowEnd": 535.25,
+	        "UpEnd": 540.75
+	      },
+	      {
+	        "ChannelNumber": 30,
+	        "LowEnd": 543.25,
+	        "UpEnd": 548.75
+	      },
+	      {
+	        "ChannelNumber": 31,
+	        "LowEnd": 551.25,
+	        "UpEnd": 556.75
+	      },
+	      {
+	        "ChannelNumber": 32,
+	        "LowEnd": 559.25,
+	        "UpEnd": 564.75
+	      },
+	      {
+	        "ChannelNumber": 33,
+	        "LowEnd": 567.25,
+	        "UpEnd": 572.75
+	      },
+	      {
+	        "ChannelNumber": 34,
+	        "LowEnd": 575.25,
+	        "UpEnd": 580.75
+	      },
+	      {
+	        "ChannelNumber": 35,
+	        "LowEnd": 583.25,
+	        "UpEnd": 588.75
+	      },
+	      {
+	        "ChannelNumber": 36,
+	        "LowEnd": 591.25,
+	        "UpEnd": 596.75
+	      },
+	      {
+	        "ChannelNumber": 37,
+	        "LowEnd": 599.25,
+	        "UpEnd": 604.75
+	      },
+	      {
+	        "ChannelNumber": 38,
+	        "LowEnd": 607.25,
+	        "UpEnd": 612.75
+	      },
+	      {
+	        "ChannelNumber": 39,
+	        "LowEnd": 615.25,
+	        "UpEnd": 620.75
+	      },
+	      {
+	        "ChannelNumber": 40,
+	        "LowEnd": 623.25,
+	        "UpEnd": 628.75
+	      },
+	      {
+	        "ChannelNumber": 41,
+	        "LowEnd": 631.25,
+	        "UpEnd": 636.75
+	      },
+	      {
+	        "ChannelNumber": 42,
+	        "LowEnd": 639.25,
+	        "UpEnd": 644.75
+	      },
+	      {
+	        "ChannelNumber": 43,
+	        "LowEnd": 647.25,
+	        "UpEnd": 652.75
+	      },
+	      {
+	        "ChannelNumber": 44,
+	        "LowEnd": 655.25,
+	        "UpEnd": 660.75
+	      },
+	      {
+	        "ChannelNumber": 45,
+	        "LowEnd": 663.25,
+	        "UpEnd": 668.75
+	      },
+	      {
+	        "ChannelNumber": 46,
+	        "LowEnd": 671.25,
+	        "UpEnd": 676.75
+	      },
+	      {
+	        "ChannelNumber": 47,
+	        "LowEnd": 679.25,
+	        "UpEnd": 684.75
+	      },
+	      {
+	        "ChannelNumber": 48,
+	        "LowEnd": 687.25,
+	        "UpEnd": 692.75
+	      },
+	      {
+	        "ChannelNumber": 49,
+	        "LowEnd": 695.25,
+	        "UpEnd": 700.75
+	      },
+	      {
+	        "ChannelNumber": 50,
+	        "LowEnd": 703.25,
+	        "UpEnd": 708.75
+	      },
+	      {
+	        "ChannelNumber": 51,
+	        "LowEnd": 711.25,
+	        "UpEnd": 716.75
+	      },
+	      {
+	        "ChannelNumber": 52,
+	        "LowEnd": 719.25,
+	        "UpEnd": 724.75
+	      },
+	      {
+	        "ChannelNumber": 53,
+	        "LowEnd": 727.25,
+	        "UpEnd": 732.75
+	      },
+	      {
+	        "ChannelNumber": 54,
+	        "LowEnd": 735.25,
+	        "UpEnd": 740.75
+	      },
+	      {
+	        "ChannelNumber": 55,
+	        "LowEnd": 743.25,
+	        "UpEnd": 748.75
+	      },
+	      {
+	        "ChannelNumber": 56,
+	        "LowEnd": 751.25,
+	        "UpEnd": 756.75
+	      },
+	      {
+	        "ChannelNumber": 57,
+	        "LowEnd": 759.25,
+	        "UpEnd": 764.75
+	      },
+	      {
+	        "ChannelNumber": 58,
+	        "LowEnd": 767.25,
+	        "UpEnd": 772.75
+	      },
+	      {
+	        "ChannelNumber": 59,
+	        "LowEnd": 775.25,
+	        "UpEnd": 780.75
+	      },
+	      {
+	        "ChannelNumber": 60,
+	        "LowEnd": 783.25,
+	        "UpEnd": 788.75
+	      },
+	      {
+	        "ChannelNumber": 61,
+	        "LowEnd": 791.25,
+	        "UpEnd": 796.75
+	      },
+	      {
+	        "ChannelNumber": 62,
+	        "LowEnd": 799.25,
+	        "UpEnd": 804.75
+	      },
+	      {
+	        "ChannelNumber": 63,
+	        "LowEnd": 807.25,
+	        "UpEnd": 812.75
+	      },
+	      {
+	        "ChannelNumber": 64,
+	        "LowEnd": 815.25,
+	        "UpEnd": 820.75
+	      },
+	      {
+	        "ChannelNumber": 65,
+	        "LowEnd": 823.25,
+	        "UpEnd": 828.75
+	      },
+	      {
+	        "ChannelNumber": 66,
+	        "LowEnd": 831.25,
+	        "UpEnd": 836.75
+	      },
+	      {
+	        "ChannelNumber": 67,
+	        "LowEnd": 839.25,
+	        "UpEnd": 844.75
+	      },
+	      {
+	        "ChannelNumber": 68,
+	        "LowEnd": 847.25,
+	        "UpEnd": 852.75
+	      },
+	      {
+	        "ChannelNumber": 69,
+	        "LowEnd": 855.25,
+	        "UpEnd": 860.75
+	      },
+	      {
+	        "ChannelNumber": 70,
+	        "LowEnd": 863.25,
+	        "UpEnd": 868.75
+	      },
+	      {
+	        "ChannelNumber": 71,
+	        "LowEnd": 871.25,
+	        "UpEnd": 876.75
+	      },
+	      {
+	        "ChannelNumber": 72,
+	        "LowEnd": 879.25,
+	        "UpEnd": 884.75
+	      },
+	      {
+	        "ChannelNumber": 73,
+	        "LowEnd": 887.25,
+	        "UpEnd": 892.75
+	      },
+	      {
+	        "ChannelNumber": 74,
+	        "LowEnd": 895.25,
+	        "UpEnd": 900.75
+	      },
+	      {
+	        "ChannelNumber": 75,
+	        "LowEnd": 903.25,
+	        "UpEnd": 908.75
+	      },
+	      {
+	        "ChannelNumber": 76,
+	        "LowEnd": 911.25,
+	        "UpEnd": 916.75
+	      },
+	      {
+	        "ChannelNumber": 77,
+	        "LowEnd": 919.25,
+	        "UpEnd": 924.75
+	      },
+	      {
+	        "ChannelNumber": 78,
+	        "LowEnd": 927.25,
+	        "UpEnd": 932.75
+	      },
+	      {
+	        "ChannelNumber": 79,
+	        "LowEnd": 935.25,
+	        "UpEnd": 940.75
+	      },
+	      {
+	        "ChannelNumber": 80,
+	        "LowEnd": 943.25,
+	        "UpEnd": 948.75
+	      },
+	      {
+	        "ChannelNumber": 81,
+	        "LowEnd": 951.25,
+	        "UpEnd": 956.75
+	      }
+    ]
+  },
+  "1": {
+    "RegionID": 1,
+    "RegionSubset": 2,
+    "Channels": [
+      {
+        "ChannelNumber": 21,
+        "LowEnd": 471.25,
+        "UpEnd": 477.25
+      },
+      {
+        "ChannelNumber": 22,
+        "LowEnd": 479.25,
+        "UpEnd": 485.25
+      },
+      {
+        "ChannelNumber": 23,
+        "LowEnd": 487.25,
+        "UpEnd": 493.25
+      },
+      {
+        "ChannelNumber": 24,
+        "LowEnd": 495.25,
+        "UpEnd": 501.25
+      },
+      {
+        "ChannelNumber": 25,
+        "LowEnd": 503.25,
+        "UpEnd": 509.25
+      },
+      {
+        "ChannelNumber": 26,
+        "LowEnd": 511.25,
+        "UpEnd": 517.25
+      },
+      {
+        "ChannelNumber": 27,
+        "LowEnd": 519.25,
+        "UpEnd": 525.25
+      },
+      {
+        "ChannelNumber": 28,
+        "LowEnd": 527.25,
+        "UpEnd": 533.25
+      },
+      {
+        "ChannelNumber": 29,
+        "LowEnd": 535.25,
+        "UpEnd": 541.25
+      },
+      {
+        "ChannelNumber": 30,
+        "LowEnd": 543.25,
+        "UpEnd": 549.25
+      },
+      {
+        "ChannelNumber": 31,
+        "LowEnd": 551.25,
+        "UpEnd": 557.25
+      },
+      {
+        "ChannelNumber": 32,
+        "LowEnd": 559.25,
+        "UpEnd": 565.25
+      },
+      {
+        "ChannelNumber": 33,
+        "LowEnd": 567.25,
+        "UpEnd": 573.25
+      },
+      {
+        "ChannelNumber": 34,
+        "LowEnd": 575.25,
+        "UpEnd": 581.25
+      },
+      {
+        "ChannelNumber": 35,
+        "LowEnd": 583.25,
+        "UpEnd": 589.25
+      },
+      {
+        "ChannelNumber": 36,
+        "LowEnd": 591.25,
+        "UpEnd": 597.25
+      },
+      {
+        "ChannelNumber": 37,
+        "LowEnd": 599.25,
+        "UpEnd": 605.25
+      },
+      {
+        "ChannelNumber": 38,
+        "LowEnd": 607.25,
+        "UpEnd": 613.25
+      },
+      {
+        "ChannelNumber": 39,
+        "LowEnd": 615.25,
+        "UpEnd": 621.25
+      },
+      {
+        "ChannelNumber": 40,
+        "LowEnd": 623.25,
+        "UpEnd": 629.25
+      },
+      {
+        "ChannelNumber": 41,
+        "LowEnd": 631.25,
+        "UpEnd": 637.25
+      },
+      {
+        "ChannelNumber": 42,
+        "LowEnd": 639.25,
+        "UpEnd": 645.25
+      },
+      {
+        "ChannelNumber": 43,
+        "LowEnd": 647.25,
+        "UpEnd": 653.25
+      },
+      {
+        "ChannelNumber": 44,
+        "LowEnd": 655.25,
+        "UpEnd": 661.25
+      },
+      {
+        "ChannelNumber": 45,
+        "LowEnd": 663.25,
+        "UpEnd": 669.25
+      },
+      {
+        "ChannelNumber": 46,
+        "LowEnd": 671.25,
+        "UpEnd": 677.25
+      },
+      {
+        "ChannelNumber": 47,
+        "LowEnd": 679.25,
+        "UpEnd": 685.25
+      },
+      {
+        "ChannelNumber": 48,
+        "LowEnd": 687.25,
+        "UpEnd": 693.25
+      },
+      {
+        "ChannelNumber": 49,
+        "LowEnd": 695.25,
+        "UpEnd": 701.25
+      },
+      {
+        "ChannelNumber": 50,
+        "LowEnd": 703.25,
+        "UpEnd": 709.25
+      },
+      {
+        "ChannelNumber": 51,
+        "LowEnd": 711.25,
+        "UpEnd": 717.25
+      },
+      {
+        "ChannelNumber": 52,
+        "LowEnd": 719.25,
+        "UpEnd": 725.25
+      },
+      {
+        "ChannelNumber": 53,
+        "LowEnd": 727.25,
+        "UpEnd": 733.25
+      },
+      {
+        "ChannelNumber": 54,
+        "LowEnd": 735.25,
+        "UpEnd": 741.25
+      },
+      {
+        "ChannelNumber": 55,
+        "LowEnd": 743.25,
+        "UpEnd": 749.25
+      },
+      {
+        "ChannelNumber": 56,
+        "LowEnd": 751.25,
+        "UpEnd": 757.25
+      },
+      {
+        "ChannelNumber": 57,
+        "LowEnd": 759.25,
+        "UpEnd": 765.25
+      },
+      {
+        "ChannelNumber": 58,
+        "LowEnd": 767.25,
+        "UpEnd": 773.25
+      },
+      {
+        "ChannelNumber": 59,
+        "LowEnd": 775.25,
+        "UpEnd": 781.25
+      },
+      {
+        "ChannelNumber": 60,
+        "LowEnd": 783.25,
+        "UpEnd": 789.25
+      },
+      {
+        "ChannelNumber": 61,
+        "LowEnd": 791.25,
+        "UpEnd": 797.25
+      },
+      {
+        "ChannelNumber": 62,
+        "LowEnd": 799.25,
+        "UpEnd": 805.25
+      },
+      {
+        "ChannelNumber": 63,
+        "LowEnd": 807.25,
+        "UpEnd": 813.25
+      },
+      {
+        "ChannelNumber": 64,
+        "LowEnd": 815.25,
+        "UpEnd": 821.25
+      },
+      {
+        "ChannelNumber": 65,
+        "LowEnd": 823.25,
+        "UpEnd": 829.25
+      },
+      {
+        "ChannelNumber": 66,
+        "LowEnd": 831.25,
+        "UpEnd": 837.25
+      },
+      {
+        "ChannelNumber": 67,
+        "LowEnd": 839.25,
+        "UpEnd": 845.25
+      },
+      {
+        "ChannelNumber": 68,
+        "LowEnd": 847.25,
+        "UpEnd": 853.25
+      },
+      {
+        "ChannelNumber": 69,
+        "LowEnd": 855.25,
+        "UpEnd": 861.25
+      }
+    ]
+  }
+}
